@@ -1,4 +1,4 @@
-//Global variable userGuess
+//Global variables userGuess & computerGuess
 var userGuess='';
 var computerGuess = '';
 
@@ -64,11 +64,11 @@ var psychicGame = {
 	}	
 };
 	 
-//2. User presses a random key from alphabet on keyboard, it's recorded on key release and is also set to the variable userGuess
+//User presses a random key from alphabet on keyboard, it's recorded on key release and is also set to the variable userGuess
 psychicGame.resetGame();
 document.onkeyup = function(event) {
 	userGuess = String.fromCharCode(event.keyCode).toLowerCase();
-	//3. Each user key press is matched to the computer's selected letter.
+//Each user key press is matched to the computer's selected letter.
 	psychicGame.increaseWins();
 	psychicGame.wrongGuess();
 	psychicGame.increaseLosses();
