@@ -1,4 +1,7 @@
 # week-3-game
+
+### Update (April 13, 2017) this was my very first dip into the ocean of JavaScript. Since it is not representative of my technical acumen, I recommend you check out my new respositories. If I redid this project, I would add a better, more inteactive UI.
+
 "Psychic", A Computer Game made with Javascript
 
 In this game, you (the user) will be guessing a random alphabetical letter that the computer game (computer) has selected. To begin playing, press any letter to enter the game.
