@@ -1,6 +1,6 @@
 # week-3-game
 
-### Update (April 13, 2017) this was my very first dip into the ocean of JavaScript. Since it is not representative of my technical acumen, I recommend you check out my new respositories. If I redid this project, I would add a better, more inteactive UI.
+### Update (April 13, 2017) this was my very first dip into the ocean of JavaScript. Since it is not representative of my technical acumen, I recommend you check out my newer respositories. If I were to redo this project, I would add a better, more interactive UI.
 
 "Psychic", A Computer Game made with Javascript
 
